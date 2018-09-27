@@ -30,8 +30,6 @@ public class Pay
 	public static void displayTotalPay(double hoursWorked, int insuranceOption, double payRate)
 	{
 		System.out.println("");
-		
-		
 	}
 	public static void displayInformation()
 	{
